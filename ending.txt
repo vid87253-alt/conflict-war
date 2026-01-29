@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ending: Happy
+=======
+Ending: Sad
+>>>>>>> feature/ending
